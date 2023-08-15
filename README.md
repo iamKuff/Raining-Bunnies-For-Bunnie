@@ -9,7 +9,7 @@ It's raining bunnies! Yup, you read that right. This script, created in the than
 1. Have [QBCore](https://github.com/qbcore-framework/qb-core) doing its thing.
 2. Clone this repo into your `resources` folder.
 3. Rename the folder to `Bunnies-For-Bunnie`.
-4. Add `ensure Bunnies-For-Bunnie` to `server.cfg` because, well, bunnies.
+4. Add `ensure Raining-Bunnies-For-Bunnie` to `server.cfg` because, well, bunnies.
 4. Make sure your `5 feet away` from your pc when loading in game just in case. Ya never know...
    
 ## Disclaimer
