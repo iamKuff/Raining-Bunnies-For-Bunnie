@@ -6,7 +6,7 @@ It's raining bunnies! Yup, you read that right. This script was created in the t
 
 ## Installation
 
-1. Have [QBCore](https://github.com/qbcore-framework/qb-core) doing its thing.
+1. Have [QBCore](https://github.com/qbcore-framework/qb-core) doing its thing. Standalone can be used with optimisation. 
 2. Clone this repo into your `resources` folder.
 3. Rename the folder to `Raining-Bunnies-For-Bunnie`.
 4. Add `ensure Raining-Bunnies-For-Bunnie` to `server.cfg` because, well, bunnies.
