@@ -1,6 +1,6 @@
 Citizen.CreateThread(function()
     while true do
-        Citizen.Wait(1000) 
+        Citizen.Wait(500) -- Bunnie you can change this depending on how crazy you are about bunnies - 1 = mental/1000 = normal
         
         local playerPed = PlayerPedId()
         local playerCoords = GetEntityCoords(playerPed)
